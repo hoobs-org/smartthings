@@ -1,2 +1,1 @@
-# smartthings
-Provides the API interface between HOOBS and SmartThings
+# ![](https://raw.githubusercontent.com/hoobs-org/HOOBS/master/docs/logo.png)
