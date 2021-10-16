@@ -58,7 +58,7 @@ HOOBS Plugin for SmartThings
 
 * Tap on **HOOBS (Connect)**
 
-* Tap on **Render the platform data for HOOBS** to get your **App Url** **App ID** **App Token** information.
+* Tap on **Render the platform data for HOOBS** to get your **App Url**, **App ID** and **App Token** information.
 
 * Add the information in the SmartThings section on the HOOBS Config screen.
 
