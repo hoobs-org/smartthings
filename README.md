@@ -52,7 +52,7 @@ HOOBS Plugin for SmartThings
 
 * Tap **Next**
 
-* Tap **Done**\
+* Tap **Done**
 
 * Within the App, tap on **Automation**.
 
