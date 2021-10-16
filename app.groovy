@@ -8,13 +8,13 @@ String appModified()                    { return "04-28-2020" }
 String branch()                         { return "master" }
 String platform()                       { return "SmartThings" }
 String pluginName()                     { return "${platform()}-v2" }
-String appIconUrl()                     { return "https://raw.githubusercontent.com/hoobs-org/smartthings/main/icon7@2x.png" }
+String appIconUrl()                     { return "https://raw.githubusercontent.com/hoobs-org/smartthings/main/icon@2x.png" }
 String getAppImg(imgName, ext=".png")   { return "https://raw.githubusercontent.com/hoobs-org/smartthings/main/images/${imgName}${ext}" }
 Map minVersions()                       { return [plugin: 233] }
 
 definition(
     name: "HOOBS (Connect)",
-    namespace: "tonesto7",
+    namespace: "hoobs-org",
     author: "Anthony Santilli",
     description: "Provides the API interface between HOOBS and ${platform()}",
     category: "My Apps",
